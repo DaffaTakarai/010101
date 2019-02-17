@@ -1,1 +1,1 @@
-# http-quote2days.com
+quote2days.com
